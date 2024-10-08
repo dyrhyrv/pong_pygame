@@ -11,7 +11,7 @@
 1. Склонируйте репозиторий на ваш локальный компьютер:
    ```bash
    git clone https://github.com/dyrhyrv/pong_pygame.git
-   cd pong-game
+   cd pong-pygame
    ```
 
 2. Убедитесь, что у вас установлен Python 3.x. Установите pygame с помощью pip:
